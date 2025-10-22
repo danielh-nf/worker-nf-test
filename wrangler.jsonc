@@ -1,0 +1,7 @@
+{
+  "name": "test-worker",
+  "compatibility_date": "2025-10-22",
+  "assets": {
+    "directory": "./"
+  }
+}
